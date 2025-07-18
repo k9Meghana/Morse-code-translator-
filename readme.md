@@ -1,15 +1,15 @@
 # Morse code Translator
 
 ## What is Morse code?
-    Morse code is a method of *encoding* letters, numbers and symbols into sequences of **dashes(-)** and **dots(.)**.
+Morse code is a method of *encoding* letters, numbers and symbols into sequences of **dashes(-)** and **dots(.)**.
 Each character in Morse has unique pattern of dots and dashes.
 
 ## Why Morse code?
-    It was developed by **Samuel Morse** and **Alfred vail** in 1830's for ***telegraph system***.
+It was developed by **Samuel Morse** and **Alfred vail** in 1830's for ***telegraph system***.
 Before phones and internet,people are used to sned over long distances using ***Electric signals*** through wires.
 
 ## What is Morse code translator?
-    A Morse code translator is device that converts or ***decodes*** messages between morse code to text and vice versa.
+A Morse code translator is device that converts or ***decodes*** messages between morse code to text and vice versa.
 * Morse code can be transmitted using 
 - Sound
 - lights 
@@ -61,16 +61,14 @@ Before phones and internet,people are used to sned over long distances using ***
  * text input is given through serial Monitor and the output is displayed in lcd.
 
  ## Conclusion:
-
-    Morse code, despite being one of the oldest forms of Digital communication, contiues to prove its relevences in modern times and to its simplicity,reliability and versatality.
-
-    A morse code translator showcases how the classic communication system can be integrated with modern technology using microcontrollers like Arduino, Raspberry pi and etc...
-
-    This translator bridges the gap between old communication methods and new-age innovation ,making all it as a valuable tool for education and Real world problem-solving.
+Morse code, despite being one of the oldest forms of Digital communication, contiues to prove its relevences in modern times and to its simplicity,reliability and versatality.
+A morse code translator showcases how the classic communication system can be integrated with modern technology using microcontrollers like Arduino, Raspberry pi and etc...
+This translator bridges the gap between old communication methods and new-age innovation ,making all it as a valuable tool for education and Real world problem-solving.
 
 
 ## Tinkercad link:
-     ***https://www.tinkercad.com/things/jzXDAyYaSOG-morse-code-translator***
+     
+***https://www.tinkercad.com/things/jzXDAyYaSOG-morse-code-translator***
 
 
 
